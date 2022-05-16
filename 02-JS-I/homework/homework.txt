@@ -1,0 +1,18 @@
+Variables: Son como un código que guarda determinada información para que 
+           puedas utilizar mas tarde. Son como un acceso rapido y directo a la información guardada. 
+
+Strings: Son cadenas de texto, se escriben siempre entre comillas (simples o dobles)
+
+Funciones: Son instrumentos que invocandolos permiten manipular variables. Los argumentos son los comandos 
+           (o declaraciones) que determinan que hace una funcion (en una funcion puede haber multiples 
+           argumentos). Por ejemplo, la declaración 'return' permite extraer los datos declarados de la función, 
+           cualquier otra dato que no este bajo esta deca no podra ser utilizado por fuera de la función, además, 
+           'return' le indica al interprete que a partir de ahí no se lea mas el codigo de la función. 
+
+If: La declaración 'if' permite establacer condiciones. Es decir, si "pasa tal cosa" se responde de determinada, si "pasa 
+    otra cosa", se responde de otra manera, sino de otra, etc.  
+
+Valores booleanos (true o false): establecen las unicas dos condiciones en las que pueden encontrarse 
+                                  las variables booleanas. Representan a cualquier conjunto de datos que impliquen
+                                  necesariamente solo 2 opciones. Es decir, true o false podría entenderse 
+                                  como: correcto o incorrecto, bien o mal, 0 o 1, etc. según como se requiera.
