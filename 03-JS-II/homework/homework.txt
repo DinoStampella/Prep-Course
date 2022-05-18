@@ -1,0 +1,12 @@
+for:    Esta declaracion genera un bucle. Es decir, la respeticion de la lectura del codigo determinada cantidad de veces,
+        En su sitaxsis lleva entre parentesis: una variable, una codicion que tiene que determina si el bucle continua (true) o no (false) y,
+        un modificador de la variable (para que el bucle no sea infinito). 
+        Entre llaves "{}" lleva el codigo que se ejecutara cada vez que el bucle sea leido por el interprete. 
+
+&&, || , !: son operadores logicos. Sirven para evaluar mas de una condicion. Es decir, con ellos se pueden
+            determinar multiples condiciones dentro de una expresion. 
+            El operador && significa "Y", en este caso para que el codigo se ejecute todas las condiciones tienen que ser 
+            verdaderas.
+            El operador || sifinica "O", en este caso para que el codigo se ejecute tiene que ser verdadera al menos 
+            una de las condiciones.
+            El operador ! significa "NO", en este caso el codigo ejecutado devolvera el valor opuesto al esperado.
