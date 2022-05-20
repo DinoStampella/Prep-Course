@@ -1,0 +1,4 @@
+Array: es un objeto en el que se almacenan diferentes elementos (que pueden o no ser del mismo tipo). Se puede acceder
+       a estos elementos invocando el nombre del array y el numero de la posicion del elemento entre conrchetes "[]".
+       Es por eso que se podria decir que funciona como una lista ordenada, en la cual el primer elemento almacenado
+       siempre llevará el indice [0].
