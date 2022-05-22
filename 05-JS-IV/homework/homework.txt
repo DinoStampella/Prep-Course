@@ -1,0 +1,24 @@
+1) Objetos: 
+        Los objetos son contenedores que permiten almacenar diversos datos y así dotarse de información a sí mismo. 
+
+2) Propiedades:
+        Los objetos tienen "propiedades". Las propiedades almacenan cualquier tipo de datos (números, strings,
+        funciones, arrays o incluso otro objeto). 
+        La regla para guardar datos dentro de un objeto es clave:valor. Es decir, la clave es la propiedad, la cual 
+        va a ser la via de acceso al valor, que sería el dato almacenado en dicha propiedad. 
+
+3) Métodos:
+        Se llaman "Métodos" a las funciones que se encuentran dentro de un objeto. En este caso la propiedad seria el
+        nombre de la funcion y el valor la funcion en sí.
+
+4) Bucle For...in:
+        Es un bucle similar al bucle for, pero con una sitaxis un poco diferente. La diferencia esta en que dentro de 
+        los parentesis tenemos que: 1. Declarar una variable, 2. Poner la palabra clave "IN" y, 3. El nombre del objeto
+        que queremos recorrer. 
+        Este bucle recorrera todo el objeto ejecutando lo que pongamos entre llaves {}. 
+
+5) Notación de puntos vs notación de corchetes:
+        En ambas notaciones se inicia con el nombre del objeto en el que esta almacenada la información a la cual 
+        queremos acceder. 
+        En la primera, la sintaxis se continua con un punto (.) seguido de la propiedad a invocar.
+        En la segunda, la sintaxis se continua con la propiedad a invocar (en string) entre corchetes [].
