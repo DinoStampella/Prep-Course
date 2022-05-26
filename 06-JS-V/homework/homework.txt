@@ -1,0 +1,11 @@
+1) Prototype: 
+        El prototipo de una clase es como si fuese un elemento padre en el que se pueden almacenar datos. 
+        Cuando creemos objetos dentro de una clase, estos objetos no van a poseer directamente los datos contenidos en 
+        el prototipo, pero si van a poder acceder a ellos si así lo desearamos. Esto es beneficioso ya que por ejemplo
+        podemos guardar un metodo en el prototipo que sea comun para todos los objetos de esa clase y estariamos ocupando
+        mucho menos espacio que si ese metodo se repitiera en cada uno de los objetos de la clase. 
+
+2) Constructors:
+        El constructor es un metodo especial que sirve para crear un objeto partiendo de una clase. La ventaja es que
+        todos los objetos que esten dentro de una misma clase van a tener exactamente las mismas propiedades (cada uno
+        con sus valores particulares).
